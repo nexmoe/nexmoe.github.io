@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>折影轻梦</title>
+  
+  <subtitle>小雏菊</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://nexmoe.com/"/>
+  <updated>2019-09-20T05:54:48.605Z</updated>
+  <id>https://nexmoe.com/</id>
+  
+  <author>
+    <name>折影轻梦</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是由 action+webhook 自动部署的文章</title>
+    <link href="https://nexmoe.com/20251452.html"/>
+    <id>https://nexmoe.com/20251452.html</id>
+    <published>2019-09-20T05:54:48.605Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Typecho 主题 Nexmoe</title>
+    <link href="https://nexmoe.com/371865617.html"/>
+    <id>https://nexmoe.com/371865617.html</id>
+    <published>2019-08-25T14:31:32.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一个比较特别的 Typecho 主题&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>美化你的终端</title>
+    <link href="https://nexmoe.com/1519803391.html"/>
+    <id>https://nexmoe.com/1519803391.html</id>
+    <published>2019-08-09T18:49:03.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;自带的 PowerShell 虽然有了自定义颜色等功能，但还是太丑，这一篇文章将帮你打造 Windows10 上最美终端。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 主题 Nexmoe</title>
+    <link href="https://nexmoe.com/hexo-theme-nexmoe.html"/>
+    <id>https://nexmoe.com/hexo-theme-nexmoe.html</id>
+    <published>2019-08-05T09:00:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一个比较特别的 Hexo 主题&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="开源" scheme="https://nexmoe.com/categories/%E5%BC%80%E6%BA%90/"/>
+    
+    
+      <category term="博客" scheme="https://nexmoe.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="Hexo" scheme="https://nexmoe.com/tags/Hexo/"/>
+    
+      <category term="主题" scheme="https://nexmoe.com/tags/%E4%B8%BB%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Pray For KyoAni</title>
+    <link href="https://nexmoe.com/3329058764.html"/>
+    <id>https://nexmoe.com/3329058764.html</id>
+    <published>2019-07-21T10:34:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;7月18日发生京都动画纵火案，当时听到消息，我心里先是想着“绝对是假的”，不过已经实锤了，只能面对现实了。&lt;br&gt;事情已经发生了，我也做不了什么，发个博文记录一下吧。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>诈尸给博客扫扫灰</title>
+    <link href="https://nexmoe.com/1733004946.html"/>
+    <id>https://nexmoe.com/1733004946.html</id>
+    <published>2019-07-07T11:49:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;顺便随便改了改博客的主题，整理一下博客友链&lt;br&gt;以后除了周末外都是处于 &lt;strong&gt;飞行模式&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="随心" scheme="https://nexmoe.com/categories/%E9%9A%8F%E5%BF%83/"/>
+    
+    
+      <category term="博客" scheme="https://nexmoe.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>褪黑色使用</title>
+    <link href="https://nexmoe.com/3598893859.html"/>
+    <id>https://nexmoe.com/3598893859.html</id>
+    <published>2019-06-16T15:54:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;食用20分钟左右躺下，几分钟就能睡觉，完美解决了我一躺躺1、2个小时才能入眠的问题，关于依赖性暂时不知道，从购入至今，每天只使用了半颗（每颗含2.5mg褪黑色）暂时没有停止使用过，待放假在进行实验。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活" scheme="https://nexmoe.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>PHP &amp; Vue.js 表白墙</title>
+    <link href="https://nexmoe.com/2154053968.html"/>
+    <id>https://nexmoe.com/2154053968.html</id>
+    <published>2019-04-14T13:38:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一个基于 Vue.js 的匿名表白墙轻量级小程序&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="开源" scheme="https://nexmoe.com/categories/%E5%BC%80%E6%BA%90/"/>
+    
+    
+      <category term="Vue" scheme="https://nexmoe.com/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人生只会越走越清晰</title>
+    <link href="https://nexmoe.com/2545549131.html"/>
+    <id>https://nexmoe.com/2545549131.html</id>
+    <published>2019-02-05T00:52:04.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;就在刚刚，按照中国的传统农历来说，刚刚过去的一年是真正的结束了。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活" scheme="https://nexmoe.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello Hexo!</title>
+    <link href="https://nexmoe.com/3876991595.html"/>
+    <id>https://nexmoe.com/3876991595.html</id>
+    <published>2019-02-03T16:33:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;由于备案和服务器、CDN等问题，最近换到了 Hexo，发现 Hexo 竟意外的好用。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="随心" scheme="https://nexmoe.com/categories/%E9%9A%8F%E5%BF%83/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018年也还是走到了头</title>
+    <link href="https://nexmoe.com/1341.html"/>
+    <id>https://nexmoe.com/1341.html</id>
+    <published>2019-01-01T00:00:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;终于，还是活到了2019，2018年也还是走到了头，2017年的时候想着要做许许多多有意思的事情，那个时候我还是那么乐观，还是充满着憧憬。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活" scheme="https://nexmoe.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>元旦送一波 steam 游戏（已结束）</title>
+    <link href="https://nexmoe.com/1321.html"/>
+    <id>https://nexmoe.com/1321.html</id>
+    <published>2018-12-23T23:44:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;终于，2018年也快到了头，2017年的时候就想着要做许许多多有意思的事情，如今肯定是有很多没有能够实现的。不过又有什么办法呢，人生总是充满遗憾，还是鼓起信心去迎接新的一年吧。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活" scheme="https://nexmoe.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>黑暗与光明孰强孰弱？</title>
+    <link href="https://nexmoe.com/1291.html"/>
+    <id>https://nexmoe.com/1291.html</id>
+    <published>2018-12-09T02:40:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;黑暗与光明孰强孰弱？&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="开源" scheme="https://nexmoe.com/categories/%E5%BC%80%E6%BA%90/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>利用 goto 来防止 if 嵌套</title>
+    <link href="https://nexmoe.com/1280.html"/>
+    <id>https://nexmoe.com/1280.html</id>
+    <published>2018-11-24T18:04:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;流程控制中的 if 是比较简单的逻辑判断，但是在多条逻辑判断中很容易造成 if 嵌套，逻辑复杂度较高，让人感到十分混乱。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="知识" scheme="https://nexmoe.com/categories/%E7%9F%A5%E8%AF%86/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>生物维生素概述</title>
+    <link href="https://nexmoe.com/1264.html"/>
+    <id>https://nexmoe.com/1264.html</id>
+    <published>2018-09-09T11:52:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;维生素是人和动物为维持正常的生理功能而必须从食物中获得的一类微量有机物质，在人体生长、代谢、发育过程中发挥着重要的作用。维生素既不参与构成人体细胞，也不为人体提供能量。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="知识" scheme="https://nexmoe.com/categories/%E7%9F%A5%E8%AF%86/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>暑假！结束！</title>
+    <link href="https://nexmoe.com/1195.html"/>
+    <id>https://nexmoe.com/1195.html</id>
+    <published>2018-09-08T20:13:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;真是过了一个散漫、肥宅、毫无意义的暑假。&lt;br&gt;暑假作业的作文题目是遗憾，我觉得这个暑假也是挺遗憾的。&lt;br&gt;&lt;strong&gt;流量预警&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活" scheme="https://nexmoe.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>只要七行，解决浏览器的文本复制问题</title>
+    <link href="https://nexmoe.com/1173.html"/>
+    <id>https://nexmoe.com/1173.html</id>
+    <published>2018-08-04T20:21:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;解决 clipboardData is not defined&lt;br&gt;兼容 Chrome 和 Firefox&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="知识" scheme="https://nexmoe.com/categories/%E7%9F%A5%E8%AF%86/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>轻惋导航萌新诱♂导</title>
+    <link href="https://nexmoe.com/867.html"/>
+    <id>https://nexmoe.com/867.html</id>
+    <published>2018-07-11T18:12:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这篇文章将会粗略的介绍轻惋导航的一些功能和玩法。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="知识" scheme="https://nexmoe.com/categories/%E7%9F%A5%E8%AF%86/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Cat UI 1.4 For Angel（免费版）</title>
+    <link href="https://nexmoe.com/1111.html"/>
+    <id>https://nexmoe.com/1111.html</id>
+    <published>2018-04-22T00:50:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Waiting for the people who is angel to me.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="开源" scheme="https://nexmoe.com/categories/%E5%BC%80%E6%BA%90/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>新年红包不送钱</title>
+    <link href="https://nexmoe.com/1070.html"/>
+    <id>https://nexmoe.com/1070.html</id>
+    <published>2018-02-16T14:14:00.000Z</published>
+    <updated>2019-09-20T05:54:48.605Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;大年初一，苟年终于到了。今天博主也要来送红包（虽然是个苦逼学生党）。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="生活" scheme="https://nexmoe.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+</feed>
