@@ -1,0 +1,1 @@
+var $=mdui.JQ;function search(){return window.open($("#search_form").attr("action_e")+" "+$("#search_value").val()),!1}$("table").has("img").addClass("nexmoe-album");
