@@ -1,0 +1,72 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: source/images
+public_folder: /images
+collections:
+  - name: all_posts
+    fields: &ref_0
+      - label: Title
+        name: title
+        widget: string
+      - label: Publish Date
+        name: date
+        widget: datetime
+        dateFormat: YYYY-MM-DD
+        timeFormat: 'HH:mm:ss'
+        format: 'YYYY-MM-DD HH:mm:ss'
+        required: false
+      - label: Tags
+        name: tags
+        widget: list
+        required: false
+      - label: Categories
+        name: categories
+        widget: list
+        required: false
+      - label: Body
+        name: body
+        widget: markdown
+        required: false
+      - label: Permalink
+        name: permalink
+        widget: string
+        required: false
+      - label: Comments
+        name: comments
+        widget: boolean
+        default: true
+        required: false
+    label: Post
+    folder: source/_posts
+    create: true
+    editor:
+      preview: true
+  - label: Page
+    name: pages
+    delete: false
+    files:
+      - name: PY.md
+        label: 朋友
+        file: source/PY.md
+        editor:
+          preview: true
+        fields: *ref_0
+      - name: archive.md
+        label: 文章归档
+        file: source/archive.md
+        editor:
+          preview: true
+        fields: *ref_0
+      - name: donate.md
+        label: 赞助我
+        file: source/donate.md
+        editor:
+          preview: true
+        fields: *ref_0
+      - name: about.md
+        label: 关于
+        file: source/about.md
+        editor:
+          preview: true
+        fields: *ref_0
